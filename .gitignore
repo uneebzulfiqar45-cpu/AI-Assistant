@@ -1,0 +1,17 @@
+# Environments
+.env
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data and Logs
+data/
+control_log.txt
+scratch/
+
+# Testing/Dev keys
+test_keys.py
+test_keys2.py
